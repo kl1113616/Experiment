@@ -1,0 +1,12 @@
+   .uppercase{
+                text-transform: uppercase;
+                color: hotpink
+            }
+
+            .important{
+                color:rgb(255, 0, 0)
+            }
+
+            #the-one{
+                color:blue
+            }
